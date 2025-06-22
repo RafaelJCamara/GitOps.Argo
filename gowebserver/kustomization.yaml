@@ -8,4 +8,4 @@ resources:
 images:
 - name: gowebserver
   newName: ghcr.io/rafaeljcamara/gowebserver
-  newTag: 72ec7fe073bfd092a90a5e01f967830ff7e59186
+  newTag: 04575196584735281e213ea69c22d27d3d47a736
