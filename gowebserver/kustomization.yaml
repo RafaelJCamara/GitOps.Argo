@@ -6,6 +6,6 @@ resources:
 - service.yaml
 
 images:
-  - name: gowebserver
-    newName: ghrc.io/rafaeljcamara/gowebserver
-    newTag: ahahahahahaha
+- name: gowebserver
+  newName: ghcr.io/rafaeljcamara/gowebserver
+  newTag: 72ec7fe073bfd092a90a5e01f967830ff7e59186
